@@ -1,1 +1,1 @@
-# FriedmanBbehavior-Maze
+# FriedmanBehavior-Maze
